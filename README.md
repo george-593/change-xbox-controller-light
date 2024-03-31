@@ -17,7 +17,8 @@ Controller model used: Model 1914
 - Restart your controller. It should be done.
 
 In this exemple, the first image is the controller with full bright as value 1.
-![image](./photos/b-1-photo1.jpg)
+![image]()
+<img src="./photos/b-1-photo1.jpg" width="12"/>
 
 This second image is the bright set as value 0.1.
 ![image](./photos/w-1-photo1.jpg)
