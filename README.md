@@ -5,7 +5,7 @@ Simple Python script to change the light brightness on an Xbox One/Series contro
 Only tested with an Xbox Series controller. Should work with Xbox One controllers as well.
 
 # How to use (windows)?
-First of all and unfortunately, it only works wired. If you intend to try using bluetooth connection, it wont works.
+First of all and unfortunately, it only works wired. If you intend to try using bluetooth connection, it won't works.
 Controller tested: ```Model 1914```
 
 - First, you need to install [Python 3](https://www.python.org/downloads/).
