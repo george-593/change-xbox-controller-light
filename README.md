@@ -10,7 +10,7 @@ Controller tested: ```Model 1914```
 
 - First, you need to install [Python 3](https://www.python.org/downloads/).
 - While installing, enable "Add Python to environment variables" option.
-- After installing, open a prompt (cmd, bash, etc...) as administrator and navigate to the repository folder. If you not open as administrator, a window opens asking for permission to run as administrator.
+- After installing, open a prompt (cmd, bash, etc...) as administrator and navigate to the repository folder. If you don't open as administrator, a window open asking for permission to run as administrator.
 - Type ```pip install -r requirements.txt```.
 - Wait the install finish.
 - Type ```python app.py [0-1]```, while ```0``` being off and ```1``` being full bright. For example, you want it really bright but not completely, type ```python app.py 0.8```.
